@@ -124,6 +124,54 @@ export const TEAMS: ITeamData[] = [
   {
     "characters": [
       {
+        "name_id": "robin",
+        "name": "Robin"
+      },
+      {
+        "name_id": "huohuo",
+        "name": "Huohuo"
+      },
+      {
+        "name_id": "aglaea",
+        "name": "Aglaea"
+      },
+      {
+        "name_id": "sunday",
+        "name": "Sunday"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "aglaea",
+      "name": "Aglaea"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "bronya",
+        "name": "Bronya"
+      },
+      {
+        "name_id": "huohuo",
+        "name": "Huohuo"
+      },
+      {
+        "name_id": "aglaea",
+        "name": "Aglaea"
+      },
+      {
+        "name_id": "sunday",
+        "name": "Sunday"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "aglaea",
+      "name": "Aglaea"
+    }
+  },
+  {
+    "characters": [
+      {
         "name_id": "jing-yuan",
         "name": "Jing Yuan"
       },
