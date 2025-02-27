@@ -2973,6 +2973,126 @@ export const TEAMS: ITeamData[] = [
       }
     ],
     "primaryCharacter": {
+      "name_id": "hanya",
+      "name": "Hanya"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "dan-heng-imbibitor-lunae",
+        "name": "Dan Heng • Imbibitor Lunae"
+      },
+      {
+        "name_id": "bronya",
+        "name": "Bronya"
+      },
+      {
+        "name_id": "hanya",
+        "name": "Hanya"
+      },
+      {
+        "name_id": "luocha",
+        "name": "Luocha"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "hanya",
+      "name": "Hanya"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "qingque",
+        "name": "Qingque"
+      },
+      {
+        "name_id": "silver-wolf",
+        "name": "Silver Wolf"
+      },
+      {
+        "name_id": "hanya",
+        "name": "Hanya"
+      },
+      {
+        "name_id": "fu-xuan",
+        "name": "Fu Xuan"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "hanya",
+      "name": "Hanya"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "topaz-and-numby",
+        "name": "Topaz and Numby"
+      },
+      {
+        "name_id": "hanya",
+        "name": "Hanya"
+      },
+      {
+        "name_id": "asta",
+        "name": "Asta"
+      },
+      {
+        "name_id": "huohuo",
+        "name": "Huohuo"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "hanya",
+      "name": "Hanya"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "kafka",
+        "name": "Kafka"
+      },
+      {
+        "name_id": "hanya",
+        "name": "Hanya"
+      },
+      {
+        "name_id": "asta",
+        "name": "Asta"
+      },
+      {
+        "name_id": "huohuo",
+        "name": "Huohuo"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "hanya",
+      "name": "Hanya"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "argenti",
+        "name": "Argenti"
+      },
+      {
+        "name_id": "tingyun",
+        "name": "Tingyun"
+      },
+      {
+        "name_id": "hanya",
+        "name": "Hanya"
+      },
+      {
+        "name_id": "huohuo",
+        "name": "Huohuo"
+      }
+    ],
+    "primaryCharacter": {
       "name_id": "argenti",
       "name": "Argenti"
     }
