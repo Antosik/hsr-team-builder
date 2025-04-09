@@ -4,6 +4,54 @@ export const TEAMS: ITeamData[] = [
   {
     "characters": [
       {
+        "name_id": "gallagher",
+        "name": "Gallagher"
+      },
+      {
+        "name_id": "castorice",
+        "name": "Castorice"
+      },
+      {
+        "name_id": "sunday",
+        "name": "Sunday"
+      },
+      {
+        "name_id": "tribbie",
+        "name": "Tribbie"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "castorice",
+      "name": "Castorice"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "gallagher",
+        "name": "Gallagher"
+      },
+      {
+        "name_id": "castorice",
+        "name": "Castorice"
+      },
+      {
+        "name_id": "mydei",
+        "name": "Mydei"
+      },
+      {
+        "name_id": "tribbie",
+        "name": "Tribbie"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "castorice",
+      "name": "Castorice"
+    }
+  },
+  {
+    "characters": [
+      {
         "name_id": "huohuo",
         "name": "Huohuo"
       },
