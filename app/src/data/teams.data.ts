@@ -12,6 +12,54 @@ export const TEAMS: ITeamData[] = [
         "name": "Castorice"
       },
       {
+        "name_id": "cipher",
+        "name": "Cipher"
+      },
+      {
+        "name_id": "tribbie",
+        "name": "Tribbie"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "cipher",
+      "name": "Cipher"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "acheron",
+        "name": "Acheron"
+      },
+      {
+        "name_id": "jiaoqiu",
+        "name": "Jiaoqiu"
+      },
+      {
+        "name_id": "aventurine",
+        "name": "Aventurine"
+      },
+      {
+        "name_id": "cipher",
+        "name": "Cipher"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "cipher",
+      "name": "Cipher"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "hyacine",
+        "name": "Hyacine"
+      },
+      {
+        "name_id": "castorice",
+        "name": "Castorice"
+      },
+      {
         "name_id": "sunday",
         "name": "Sunday"
       },
