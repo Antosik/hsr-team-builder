@@ -2,6 +2,22 @@ import type { ICharacterData } from "../types";
 
 export const CHARACTERS: ICharacterData[] = [
   {
+    "name_id": "blade",
+    "name": "Blade"
+  },
+  {
+    "name_id": "jingliu",
+    "name": "Jingliu"
+  },
+  {
+    "name_id": "silver-wolf",
+    "name": "Silver Wolf"
+  },
+  {
+    "name_id": "kafka",
+    "name": "Kafka"
+  },
+  {
     "name_id": "archer",
     "name": "Archer"
   },
@@ -162,10 +178,6 @@ export const CHARACTERS: ICharacterData[] = [
     "name": "Guinaifen"
   },
   {
-    "name_id": "jingliu",
-    "name": "Jingliu"
-  },
-  {
     "name_id": "topaz-and-numby",
     "name": "Topaz and Numby"
   },
@@ -200,10 +212,6 @@ export const CHARACTERS: ICharacterData[] = [
   {
     "name_id": "sushang",
     "name": "Sushang"
-  },
-  {
-    "name_id": "blade",
-    "name": "Blade"
   },
   {
     "name_id": "qingque",
@@ -254,20 +262,12 @@ export const CHARACTERS: ICharacterData[] = [
     "name": "Seele"
   },
   {
-    "name_id": "kafka",
-    "name": "Kafka"
-  },
-  {
     "name_id": "welt",
     "name": "Welt"
   },
   {
     "name_id": "himeko",
     "name": "Himeko"
-  },
-  {
-    "name_id": "silver-wolf",
-    "name": "Silver Wolf"
   },
   {
     "name_id": "yanqing",

@@ -1,5 +1,21 @@
 [
   {
+    "name_id": "blade",
+    "name": "Blade"
+  },
+  {
+    "name_id": "jingliu",
+    "name": "Jingliu"
+  },
+  {
+    "name_id": "silver-wolf",
+    "name": "Silver Wolf"
+  },
+  {
+    "name_id": "kafka",
+    "name": "Kafka"
+  },
+  {
     "name_id": "archer",
     "name": "Archer"
   },
@@ -160,10 +176,6 @@
     "name": "Guinaifen"
   },
   {
-    "name_id": "jingliu",
-    "name": "Jingliu"
-  },
-  {
     "name_id": "topaz-and-numby",
     "name": "Topaz and Numby"
   },
@@ -198,10 +210,6 @@
   {
     "name_id": "sushang",
     "name": "Sushang"
-  },
-  {
-    "name_id": "blade",
-    "name": "Blade"
   },
   {
     "name_id": "qingque",
@@ -252,20 +260,12 @@
     "name": "Seele"
   },
   {
-    "name_id": "kafka",
-    "name": "Kafka"
-  },
-  {
     "name_id": "welt",
     "name": "Welt"
   },
   {
     "name_id": "himeko",
     "name": "Himeko"
-  },
-  {
-    "name_id": "silver-wolf",
-    "name": "Silver Wolf"
   },
   {
     "name_id": "yanqing",
