@@ -268,6 +268,126 @@ export const TEAMS: ITeamData[] = [
   {
     "characters": [
       {
+        "name_id": "silver-wolf",
+        "name": "Silver Wolf"
+      },
+      {
+        "name_id": "sparkle",
+        "name": "Sparkle"
+      },
+      {
+        "name_id": "gallagher",
+        "name": "Gallagher"
+      },
+      {
+        "name_id": "archer",
+        "name": "Archer"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "archer",
+      "name": "Archer"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "sparkle",
+        "name": "Sparkle"
+      },
+      {
+        "name_id": "gallagher",
+        "name": "Gallagher"
+      },
+      {
+        "name_id": "archer",
+        "name": "Archer"
+      },
+      {
+        "name_id": "cipher",
+        "name": "Cipher"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "archer",
+      "name": "Archer"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "saber",
+        "name": "Saber"
+      },
+      {
+        "name_id": "robin",
+        "name": "Robin"
+      },
+      {
+        "name_id": "huohuo",
+        "name": "Huohuo"
+      },
+      {
+        "name_id": "sunday",
+        "name": "Sunday"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "saber",
+      "name": "Saber"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "saber",
+        "name": "Saber"
+      },
+      {
+        "name_id": "huohuo",
+        "name": "Huohuo"
+      },
+      {
+        "name_id": "sunday",
+        "name": "Sunday"
+      },
+      {
+        "name_id": "tribbie",
+        "name": "Tribbie"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "saber",
+      "name": "Saber"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "saber",
+        "name": "Saber"
+      },
+      {
+        "name_id": "huohuo",
+        "name": "Huohuo"
+      },
+      {
+        "name_id": "sunday",
+        "name": "Sunday"
+      },
+      {
+        "name_id": "cipher",
+        "name": "Cipher"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "saber",
+      "name": "Saber"
+    }
+  },
+  {
+    "characters": [
+      {
         "name_id": "phainon",
         "name": "Phainon"
       },
@@ -455,6 +575,54 @@ export const TEAMS: ITeamData[] = [
     "primaryCharacter": {
       "name_id": "anaxa",
       "name": "Anaxa"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "gallagher",
+        "name": "Gallagher"
+      },
+      {
+        "name_id": "castorice",
+        "name": "Castorice"
+      },
+      {
+        "name_id": "sunday",
+        "name": "Sunday"
+      },
+      {
+        "name_id": "tribbie",
+        "name": "Tribbie"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "castorice",
+      "name": "Castorice"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "gallagher",
+        "name": "Gallagher"
+      },
+      {
+        "name_id": "castorice",
+        "name": "Castorice"
+      },
+      {
+        "name_id": "mydei",
+        "name": "Mydei"
+      },
+      {
+        "name_id": "tribbie",
+        "name": "Tribbie"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "castorice",
+      "name": "Castorice"
     }
   },
   {
@@ -3604,6 +3772,78 @@ export const TEAMS: ITeamData[] = [
   {
     "characters": [
       {
+        "name_id": "argenti",
+        "name": "Argenti"
+      },
+      {
+        "name_id": "tingyun",
+        "name": "Tingyun"
+      },
+      {
+        "name_id": "hanya",
+        "name": "Hanya"
+      },
+      {
+        "name_id": "huohuo",
+        "name": "Huohuo"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "argenti",
+      "name": "Argenti"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "argenti",
+        "name": "Argenti"
+      },
+      {
+        "name_id": "tingyun",
+        "name": "Tingyun"
+      },
+      {
+        "name_id": "pela",
+        "name": "Pela"
+      },
+      {
+        "name_id": "huohuo",
+        "name": "Huohuo"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "argenti",
+      "name": "Argenti"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "argenti",
+        "name": "Argenti"
+      },
+      {
+        "name_id": "natasha",
+        "name": "Natasha"
+      },
+      {
+        "name_id": "hanya",
+        "name": "Hanya"
+      },
+      {
+        "name_id": "bronya",
+        "name": "Bronya"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "argenti",
+      "name": "Argenti"
+    }
+  },
+  {
+    "characters": [
+      {
         "name_id": "kafka",
         "name": "Kafka"
       },
@@ -4636,6 +4876,78 @@ export const TEAMS: ITeamData[] = [
   {
     "characters": [
       {
+        "name_id": "sushang",
+        "name": "Sushang"
+      },
+      {
+        "name_id": "pela",
+        "name": "Pela"
+      },
+      {
+        "name_id": "asta",
+        "name": "Asta"
+      },
+      {
+        "name_id": "gepard",
+        "name": "Gepard"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "sushang",
+      "name": "Sushang"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "sushang",
+        "name": "Sushang"
+      },
+      {
+        "name_id": "pela",
+        "name": "Pela"
+      },
+      {
+        "name_id": "asta",
+        "name": "Asta"
+      },
+      {
+        "name_id": "natasha",
+        "name": "Natasha"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "sushang",
+      "name": "Sushang"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "sushang",
+        "name": "Sushang"
+      },
+      {
+        "name_id": "tingyun",
+        "name": "Tingyun"
+      },
+      {
+        "name_id": "bronya",
+        "name": "Bronya"
+      },
+      {
+        "name_id": "natasha",
+        "name": "Natasha"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "sushang",
+      "name": "Sushang"
+    }
+  },
+  {
+    "characters": [
+      {
         "name_id": "qingque",
         "name": "Qingque"
       },
@@ -4823,6 +5135,102 @@ export const TEAMS: ITeamData[] = [
     "primaryCharacter": {
       "name_id": "pela",
       "name": "Pela"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "seele",
+        "name": "Seele"
+      },
+      {
+        "name_id": "bronya",
+        "name": "Bronya"
+      },
+      {
+        "name_id": "tingyun",
+        "name": "Tingyun"
+      },
+      {
+        "name_id": "natasha",
+        "name": "Natasha"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "natasha",
+      "name": "Natasha"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "jing-yuan",
+        "name": "Jing Yuan"
+      },
+      {
+        "name_id": "bronya",
+        "name": "Bronya"
+      },
+      {
+        "name_id": "tingyun",
+        "name": "Tingyun"
+      },
+      {
+        "name_id": "natasha",
+        "name": "Natasha"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "natasha",
+      "name": "Natasha"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "dan-heng",
+        "name": "Dan Heng"
+      },
+      {
+        "name_id": "bronya",
+        "name": "Bronya"
+      },
+      {
+        "name_id": "tingyun",
+        "name": "Tingyun"
+      },
+      {
+        "name_id": "natasha",
+        "name": "Natasha"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "natasha",
+      "name": "Natasha"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "serval",
+        "name": "Serval"
+      },
+      {
+        "name_id": "sampo",
+        "name": "Sampo"
+      },
+      {
+        "name_id": "asta",
+        "name": "Asta"
+      },
+      {
+        "name_id": "natasha",
+        "name": "Natasha"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "natasha",
+      "name": "Natasha"
     }
   },
   {
@@ -5639,6 +6047,126 @@ export const TEAMS: ITeamData[] = [
     "primaryCharacter": {
       "name_id": "gepard",
       "name": "Gepard"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "seele",
+        "name": "Seele"
+      },
+      {
+        "name_id": "bronya",
+        "name": "Bronya"
+      },
+      {
+        "name_id": "tingyun",
+        "name": "Tingyun"
+      },
+      {
+        "name_id": "bailu",
+        "name": "Bailu"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "seele",
+      "name": "Seele"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "seele",
+        "name": "Seele"
+      },
+      {
+        "name_id": "bronya",
+        "name": "Bronya"
+      },
+      {
+        "name_id": "tingyun",
+        "name": "Tingyun"
+      },
+      {
+        "name_id": "natasha",
+        "name": "Natasha"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "seele",
+      "name": "Seele"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "seele",
+        "name": "Seele"
+      },
+      {
+        "name_id": "welt",
+        "name": "Welt"
+      },
+      {
+        "name_id": "asta",
+        "name": "Asta"
+      },
+      {
+        "name_id": "gepard",
+        "name": "Gepard"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "seele",
+      "name": "Seele"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "seele",
+        "name": "Seele"
+      },
+      {
+        "name_id": "asta",
+        "name": "Asta"
+      },
+      {
+        "name_id": "trailblazer-fire",
+        "name": "Trailblazer (Fire)"
+      },
+      {
+        "name_id": "natasha",
+        "name": "Natasha"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "seele",
+      "name": "Seele"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "seele",
+        "name": "Seele"
+      },
+      {
+        "name_id": "silver-wolf",
+        "name": "Silver Wolf"
+      },
+      {
+        "name_id": "lynx",
+        "name": "Lynx"
+      },
+      {
+        "name_id": "fu-xuan",
+        "name": "Fu Xuan"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "seele",
+      "name": "Seele"
     }
   },
   {
