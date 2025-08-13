@@ -4,6 +4,102 @@ export const TEAMS: ITeamData[] = [
   {
     "characters": [
       {
+        "name_id": "kafka",
+        "name": "Kafka"
+      },
+      {
+        "name_id": "black-swan",
+        "name": "Black Swan"
+      },
+      {
+        "name_id": "hysilens",
+        "name": "Hysilens"
+      },
+      {
+        "name_id": "huohuo",
+        "name": "Huohuo"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "hysilens",
+      "name": "Hysilens"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "kafka",
+        "name": "Kafka"
+      },
+      {
+        "name_id": "hysilens",
+        "name": "Hysilens"
+      },
+      {
+        "name_id": "ruan-mei",
+        "name": "Ruan Mei"
+      },
+      {
+        "name_id": "huohuo",
+        "name": "Huohuo"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "hysilens",
+      "name": "Hysilens"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "kafka",
+        "name": "Kafka"
+      },
+      {
+        "name_id": "hysilens",
+        "name": "Hysilens"
+      },
+      {
+        "name_id": "huohuo",
+        "name": "Huohuo"
+      },
+      {
+        "name_id": "cipher",
+        "name": "Cipher"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "hysilens",
+      "name": "Hysilens"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "kafka",
+        "name": "Kafka"
+      },
+      {
+        "name_id": "hysilens",
+        "name": "Hysilens"
+      },
+      {
+        "name_id": "huohuo",
+        "name": "Huohuo"
+      },
+      {
+        "name_id": "tribbie",
+        "name": "Tribbie"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "hysilens",
+      "name": "Hysilens"
+    }
+  },
+  {
+    "characters": [
+      {
         "name_id": "blade",
         "name": "Blade"
       },
@@ -258,6 +354,30 @@ export const TEAMS: ITeamData[] = [
       {
         "name_id": "tribbie",
         "name": "Tribbie"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "kafka",
+      "name": "Kafka"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "kafka",
+        "name": "Kafka"
+      },
+      {
+        "name_id": "black-swan",
+        "name": "Black Swan"
+      },
+      {
+        "name_id": "hysilens",
+        "name": "Hysilens"
+      },
+      {
+        "name_id": "huohuo",
+        "name": "Huohuo"
       }
     ],
     "primaryCharacter": {
