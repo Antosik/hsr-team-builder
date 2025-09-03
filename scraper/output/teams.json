@@ -2,6 +2,78 @@
   {
     "characters": [
       {
+        "name_id": "phainon",
+        "name": "Phainon"
+      },
+      {
+        "name_id": "cerydra",
+        "name": "Cerydra"
+      },
+      {
+        "name_id": "bronya",
+        "name": "Bronya"
+      },
+      {
+        "name_id": "sunday",
+        "name": "Sunday"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "cerydra",
+      "name": "Cerydra"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "anaxa",
+        "name": "Anaxa"
+      },
+      {
+        "name_id": "cerydra",
+        "name": "Cerydra"
+      },
+      {
+        "name_id": "hyacine",
+        "name": "Hyacine"
+      },
+      {
+        "name_id": "sunday",
+        "name": "Sunday"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "cerydra",
+      "name": "Cerydra"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "sparkle",
+        "name": "Sparkle"
+      },
+      {
+        "name_id": "cerydra",
+        "name": "Cerydra"
+      },
+      {
+        "name_id": "hyacine",
+        "name": "Hyacine"
+      },
+      {
+        "name_id": "archer",
+        "name": "Archer"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "cerydra",
+      "name": "Cerydra"
+    }
+  },
+  {
+    "characters": [
+      {
         "name_id": "kafka",
         "name": "Kafka"
       },
