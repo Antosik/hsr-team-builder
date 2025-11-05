@@ -4,6 +4,126 @@ export const TEAMS: ITeamData[] = [
   {
     "characters": [
       {
+        "name_id": "hyacine",
+        "name": "Hyacine"
+      },
+      {
+        "name_id": "castorice",
+        "name": "Castorice"
+      },
+      {
+        "name_id": "evernight",
+        "name": "Evernight"
+      },
+      {
+        "name_id": "cyrene",
+        "name": "Cyrene"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "cyrene",
+      "name": "Cyrene"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "phainon",
+        "name": "Phainon"
+      },
+      {
+        "name_id": "cerydra",
+        "name": "Cerydra"
+      },
+      {
+        "name_id": "sunday",
+        "name": "Sunday"
+      },
+      {
+        "name_id": "cyrene",
+        "name": "Cyrene"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "cyrene",
+      "name": "Cyrene"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "anaxa",
+        "name": "Anaxa"
+      },
+      {
+        "name_id": "cerydra",
+        "name": "Cerydra"
+      },
+      {
+        "name_id": "hyacine",
+        "name": "Hyacine"
+      },
+      {
+        "name_id": "cyrene",
+        "name": "Cyrene"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "cyrene",
+      "name": "Cyrene"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "hyacine",
+        "name": "Hyacine"
+      },
+      {
+        "name_id": "mydei",
+        "name": "Mydei"
+      },
+      {
+        "name_id": "tribbie",
+        "name": "Tribbie"
+      },
+      {
+        "name_id": "cyrene",
+        "name": "Cyrene"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "cyrene",
+      "name": "Cyrene"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "anaxa",
+        "name": "Anaxa"
+      },
+      {
+        "name_id": "cerydra",
+        "name": "Cerydra"
+      },
+      {
+        "name_id": "dan-heng-permansor-terrae",
+        "name": "Dan Heng Permansor Terrae"
+      },
+      {
+        "name_id": "cyrene",
+        "name": "Cyrene"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "cyrene",
+      "name": "Cyrene"
+    }
+  },
+  {
+    "characters": [
+      {
         "name_id": "silver-wolf",
         "name": "Silver Wolf"
       },
@@ -210,6 +330,30 @@ export const TEAMS: ITeamData[] = [
       {
         "name_id": "archer",
         "name": "Archer"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "cerydra",
+      "name": "Cerydra"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "phainon",
+        "name": "Phainon"
+      },
+      {
+        "name_id": "cerydra",
+        "name": "Cerydra"
+      },
+      {
+        "name_id": "sunday",
+        "name": "Sunday"
+      },
+      {
+        "name_id": "cyrene",
+        "name": "Cyrene"
       }
     ],
     "primaryCharacter": {
@@ -772,6 +916,30 @@ export const TEAMS: ITeamData[] = [
   {
     "characters": [
       {
+        "name_id": "phainon",
+        "name": "Phainon"
+      },
+      {
+        "name_id": "cerydra",
+        "name": "Cerydra"
+      },
+      {
+        "name_id": "sunday",
+        "name": "Sunday"
+      },
+      {
+        "name_id": "cyrene",
+        "name": "Cyrene"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "phainon",
+      "name": "Phainon"
+    }
+  },
+  {
+    "characters": [
+      {
         "name_id": "hyacine",
         "name": "Hyacine"
       },
@@ -1026,6 +1194,30 @@ export const TEAMS: ITeamData[] = [
       {
         "name_id": "tribbie",
         "name": "Tribbie"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "mydei",
+      "name": "Mydei"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "hyacine",
+        "name": "Hyacine"
+      },
+      {
+        "name_id": "mydei",
+        "name": "Mydei"
+      },
+      {
+        "name_id": "tribbie",
+        "name": "Tribbie"
+      },
+      {
+        "name_id": "cyrene",
+        "name": "Cyrene"
       }
     ],
     "primaryCharacter": {
