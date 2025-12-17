@@ -2,6 +2,102 @@
   {
     "characters": [
       {
+        "name_id": "ruan-mei",
+        "name": "Ruan Mei"
+      },
+      {
+        "name_id": "fugue",
+        "name": "Fugue"
+      },
+      {
+        "name_id": "the-dahlia",
+        "name": "The Dahlia"
+      },
+      {
+        "name_id": "rappa",
+        "name": "Rappa"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "the-dahlia",
+      "name": "The Dahlia"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "firefly",
+        "name": "Firefly"
+      },
+      {
+        "name_id": "the-dahlia",
+        "name": "The Dahlia"
+      },
+      {
+        "name_id": "fugue",
+        "name": "Fugue"
+      },
+      {
+        "name_id": "lingsha",
+        "name": "Lingsha"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "the-dahlia",
+      "name": "The Dahlia"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "boothill",
+        "name": "Boothill"
+      },
+      {
+        "name_id": "the-dahlia",
+        "name": "The Dahlia"
+      },
+      {
+        "name_id": "fugue",
+        "name": "Fugue"
+      },
+      {
+        "name_id": "lingsha",
+        "name": "Lingsha"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "the-dahlia",
+      "name": "The Dahlia"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name_id": "firefly",
+        "name": "Firefly"
+      },
+      {
+        "name_id": "ruan-mei",
+        "name": "Ruan Mei"
+      },
+      {
+        "name_id": "fugue",
+        "name": "Fugue"
+      },
+      {
+        "name_id": "the-dahlia",
+        "name": "The Dahlia"
+      }
+    ],
+    "primaryCharacter": {
+      "name_id": "the-dahlia",
+      "name": "The Dahlia"
+    }
+  },
+  {
+    "characters": [
+      {
         "name_id": "hyacine",
         "name": "Hyacine"
       },
